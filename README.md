@@ -1,1 +1,3 @@
 # dailyreport
+* hu
+* zhiwei
